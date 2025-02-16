@@ -16,6 +16,7 @@ Project Overview
     sklearn.linear_model.LinearRegression: Implements Linear Regression for salary prediction.
 
 
+
 2. Dataset – Hiring Data (hiring.csv)
    
     The dataset contains three features:
@@ -29,9 +30,11 @@ Project Overview
     The target variable (output) is Salary.
 
 
+
 3. Loading the Dataset
 
    Reads the dataset from hiring.csv into a Pandas DataFrame.
+
    
 
 4. Defining Features and Target Variables
@@ -45,15 +48,18 @@ Project Overview
    
     LinearRegression() creates a Linear Regression model.
 
+
       
 6. Saving the Trained Model Using Pickle
    
     Serializes the trained model and saves it as model.pkl.
 
 
+
 7. Loading the Model for Future Predictions
    
     Loads the saved model from the disk.
+
 
 
 8. Making Predictions (Example Usage)
