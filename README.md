@@ -1,6 +1,8 @@
-Project Overview
+Project Overview:
 
-    This project builds a Linear Regression Model using Scikit-Learn to predict salaries based on experience, test scores, and interview performance. The trained model is saved and loaded using Pickle for future predictions.
+    This project builds a Linear Regression Model using Scikit-Learn to predict salaries based on experience, test scores, and interview performance. 
+    
+    The trained model is saved and loaded using Pickle for future predictions.
     
 
   1. Libraries Used
